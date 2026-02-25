@@ -2,9 +2,9 @@
 
 1. We want a stable climate and thriving human civilization on Earth.
 
-2. Climate scientists including from the IPCC have been studying the climate model. Their models say that to maintain a stable climate it is important to stay under 2˚C of warming over pre-industrial levels.
+2. Climate scientists including from the IPCC have been studying the climate model. Their models say that to maintain a stable climate it is important to stay well below 2˚C of warming over pre-industrial levels.
 
-3. Climate scientists have also been studying what's needed to achieve that. The target: decarbonize to net zero plus remove 10 gigatons of carbon dioxide removal per year all by 2050. *(Technically the IPCC doesn't make targets though, so this isn't accurate.)*
+3. Climate scientists have also been studying what's needed to achieve that. The target 1.5˚C: decarbonize to net zero plus remove 10 gigatons of carbon dioxide removal per year all by 2050. *(Technically the IPCC doesn't make targets though, so this isn't accurate.)*
 
 4. *[Progress has been made, but how does it relate to the top goal?]*
 
