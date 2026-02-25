@@ -1,0 +1,1 @@
+I want this to be a online collaborative platform for creating both the context, potential solutions, and plans for reversing climate change. Ask questions, make comments, pull requests, fork this, let's go.
