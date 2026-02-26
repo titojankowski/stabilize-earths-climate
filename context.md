@@ -34,7 +34,7 @@
 
 ### How far behind schedule are we?
 
-11. The goal has been to get decarbonization to net zero and carbon removal to 10 gigaton per year scale by 2050. Let's say because of the delays we're at 2075 instead of 2050. So for the sake of this argument there's a **25 year gap** to make up. *(This is a good point to check whether you agree/disagree, have other thoughts here.)*
+11. The goal has been to get decarbonization to net zero and carbon removal to 10 gigaton per year scale by 2050. Let's say because of the delays we're at 2075 instead of 2050. So for the sake of this argument there's a **25 year gap** to make up. *(This is a good point to check whether you agree/disagree, have other thoughts here. Also, I don't even know if there's any science to back up a time estimate, but that would be nice because otherwise this number is really hard to define)*
 
 ## Climate Interventions
 
